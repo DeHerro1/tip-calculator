@@ -1,0 +1,64 @@
+#container {
+  position: absolute;
+  top: 10%;
+  left: 140px;
+  background-color: rgb(163, 235, 240);
+  border-radius: 10px;
+  width: 60%;
+  text-align: center;
+  height: 100%;
+  overflow: hidden;
+}
+#head {
+  background-color: cyan;
+  margin-top: -20px;
+  height: 60px;
+  padding: 10px;
+}
+#head h1 {
+  margin: 20px;
+}
+.bill-div {
+  padding: 10px;
+}
+p {
+  font-size: 20px;
+}
+.decimal-num {
+  height: 30px;
+  width: 70%;
+  border-radius: 10px;
+  outline: none;
+  font-size: 18px;
+}
+.number {
+  height: 30px;
+  width: 70%;
+  border-radius: 10px;
+  outline: none;
+  font-size: 18px;
+}
+.showitem {
+  width: 90%;
+  border-radius: 10px;
+  margin: 5px auto;
+  background-color: rgb(231, 42, 42);
+}
+.selection {
+  height: 30px;
+  width: 70%;
+  border-radius: 10px;
+  outline: none;
+  font-size: 18px;
+}
+#calc {
+  margin-top: 30px;
+  height: 40px;
+  width: 70%;
+  border-radius: 10px;
+  background-color: cyan;
+  border: none;
+
+  outline: none;
+  font-size: 18px;
+}
